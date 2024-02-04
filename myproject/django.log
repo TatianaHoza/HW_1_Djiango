@@ -1,0 +1,8 @@
+Watching for file changes with StatReloader
+Not Found: /
+"GET / HTTP/1.1" 404 2280
+"GET /aboutme/ HTTP/1.1" 200 3133
+Not Found: /aboutme/CV_files/style.css
+Not Found: /aboutme/CV_files/css2
+"GET /aboutme/CV_files/style.css HTTP/1.1" 404 2376
+"GET /aboutme/CV_files/css2 HTTP/1.1" 404 2361
